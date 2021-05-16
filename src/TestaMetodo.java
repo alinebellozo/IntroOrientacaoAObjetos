@@ -25,5 +25,8 @@ public class TestaMetodo {
 		//		System.out.println("Ops, faltou dinheiro!");
 		// System.out.println(contaDaMarina.saldo);
 		// System.out.println(contaDaAline.saldo);
+		
+		contaDaAline.titular = "Aline Bellozo";
+		System.out.println(contaDaAline.titular);
 	}
 }
